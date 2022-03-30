@@ -6,3 +6,6 @@ Optimiser un site web existant / vitesse / taille / référencement / accessibil
 
 Le site internet avant audit --> branch main
 Le site internet apres audit --> branch audit
+
+Liens vers le site optimisé : 
+  https://floriangasparine.github.io/lapanthere.github.io/
