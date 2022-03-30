@@ -1040,3 +1040,12 @@ h4 {
         text-align: center;
     }
 }
+
+
+/* Modification suite à l'audit */
+/* Ajout d'une stylisation des paragraphes qui ont remplacés les images  */
+
+.modificationTextuelleAudit{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
